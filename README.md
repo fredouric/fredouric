@@ -10,4 +10,3 @@ I'm Frédéric, a french Cloud engineer. I am passionate about DevOps, programmi
 
 📫 Reach me: 
 - [LinkedIn](https://www.linkedin.com/in/frederic-thomas2/)
-- [Twitter](https://twitter.com/frederic_ths)
